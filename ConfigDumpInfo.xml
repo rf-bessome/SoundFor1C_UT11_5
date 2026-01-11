@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.СДЧ_ФайлыДляВоспроизведения" id="7532a39c-84cb-4a8a-bbe0-d4b0bad0bb9f" configVersion="dbe85f45be4ba308e782e9a20c794773b91db553">
+			<Metadata name="Catalog.СДЧ_ФайлыДляВоспроизведения.Attribute.Хэш" id="a1073f5b-2164-4a0b-b971-cc66d32aed90"/>
+			<Metadata name="Catalog.СДЧ_ФайлыДляВоспроизведения.Attribute.ОсновноеСообщение" id="aa02991f-3192-43bc-95be-e7d27c596556"/>
+			<Metadata name="Catalog.СДЧ_ФайлыДляВоспроизведения.Attribute.Акитвность" id="ca7f8ac4-909d-4623-9ef4-2cf68d66d6c2"/>
+			<Metadata name="Catalog.СДЧ_ФайлыДляВоспроизведения.Attribute.Медиа" id="d7d72a3b-7ba1-424e-9384-d90b76abab63"/>
+		</Metadata>
+		<Metadata name="Catalog.СДЧ_ФайлыДляВоспроизведения.Form.ФормаСписка" id="657b53e8-0c50-4cc7-b5f6-f0675fa1993f" configVersion="564444b37e2af1834665ccfe72a95d6312576b88"/>
+		<Metadata name="Catalog.СДЧ_ФайлыДляВоспроизведения.Form.ФормаСписка.Form" id="657b53e8-0c50-4cc7-b5f6-f0675fa1993f.0" configVersion="91aecf858fbec4fc0881da54eca776aa12c7616a"/>
+		<Metadata name="Catalog.СДЧ_ФайлыДляВоспроизведения.Form.ФормаЭлемента" id="e15c387e-47dd-4a8c-bf1c-19cee811aff8" configVersion="cfe67d0dd171fdc49df2e1ea642b0e48ddab0ca4"/>
+		<Metadata name="Catalog.СДЧ_ФайлыДляВоспроизведения.Form.ФормаЭлемента.Form" id="e15c387e-47dd-4a8c-bf1c-19cee811aff8.0" configVersion="178d6371a4c2b60c733ac03edef7993ca4ef186b"/>
+		<Metadata name="CommonForm.ВоспроизведениеЗвука" id="e8c28282-6c1e-480e-bb3c-56ade14e77dd" configVersion="254360f134fe1600903732e3b2853792005f3224"/>
+		<Metadata name="CommonForm.ВоспроизведениеЗвука.Form" id="e8c28282-6c1e-480e-bb3c-56ade14e77dd.0" configVersion="57a19091b19e2376f539bc10b624644a5ba6b332"/>
+		<Metadata name="CommonModule.СДЧ_ЗвуковыеОповещенияКлиент" id="0f3d541b-55ac-4ac3-a4c8-0dd8977b7e23" configVersion="117e008020e4d496f620480d23dee933be7d67d9"/>
+		<Metadata name="CommonModule.СДЧ_ЗвуковыеОповещенияКлиент.Module" id="0f3d541b-55ac-4ac3-a4c8-0dd8977b7e23.0" configVersion="1ab05c5334ec53bb6a6e3255d3cfd8a6c94a5949"/>
+		<Metadata name="CommonModule.СДЧ_ЗвуковыеОповещенияКлиентПовтИсп" id="090db441-7328-4653-8d73-81c7506c2adb" configVersion="5018e76542c556a7cd775ac6aac969f1a4e8ad5a"/>
+		<Metadata name="CommonModule.СДЧ_ЗвуковыеОповещенияКлиентПовтИсп.Module" id="090db441-7328-4653-8d73-81c7506c2adb.0" configVersion="3783e92aec122e55c69d65019e01241796f32b99"/>
+		<Metadata name="CommonModule.СДЧ_ЗвуковыеОповещенияСервер" id="274394ca-46ec-4b46-9c63-e6bbca709654" configVersion="eb9a36dd1d47f09b8f560533a1cc1344f35e11e5"/>
+		<Metadata name="CommonModule.СДЧ_ЗвуковыеОповещенияСервер.Module" id="274394ca-46ec-4b46-9c63-e6bbca709654.0" configVersion="93bc7d249dcb5cec636459fc9bb2095bf5aaa013"/>
+		<Metadata name="CommonPicture.ЗаполнитьФорму" id="b974f1ff-bc73-47f7-9cc5-23660f64856b" configVersion="ea9abd60ba7d9d43311f7cd951a47c2c571c63dd"/>
+		<Metadata name="CommonPicture.Набор" id="8ce32bd7-c8d6-4bb8-84f0-dc5744d3f1c5" configVersion="03b855394d98033b4c9680a8d57fd945dcaeac35"/>
+		<Metadata name="CommonPicture.Наборы" id="272ba07e-7bc1-454a-86fc-52475755c72b" configVersion="988015ecd97226b26a493bf8c6a69b62029c81ed"/>
+		<Metadata name="CommonPicture.РМК_Стереть" id="34dd2649-13d5-4c6a-9007-fd84391f71ae" configVersion="4fee36fe6e458050887e4ba7df3d08fb94a82587"/>
+		<Metadata name="CommonPicture.РМК_ТочкаКалькулятора" id="47c87742-2deb-42af-9661-1b4303462ad8" configVersion="869499aeb4a49ad1652d4005a9b4a4cafd55a30e"/>
+		<Metadata name="CommonPicture.РМК_Цифра0" id="3a57ab2b-670e-4f22-9460-11318c78ffaa" configVersion="4cc35f3f7856c3d916f267203ba147c59eb1e85e"/>
+		<Metadata name="CommonPicture.РМК_Цифра1" id="e724bd2b-9550-4e0d-9fcb-4c9a4c2db165" configVersion="7acb7391a71d700f2207c4f09cc797e1ac8fca9c"/>
+		<Metadata name="CommonPicture.РМК_Цифра2" id="4fab559b-7a64-4e66-b0d1-055edb98a4eb" configVersion="04aed4f8b4d9f88df85915c4a3efca8f2b35f1c2"/>
+		<Metadata name="CommonPicture.РМК_Цифра3" id="f351a395-b303-498b-bba2-eac75762c4ac" configVersion="0391d997bc2112b650490ef66da5646a4459aa8b"/>
+		<Metadata name="CommonPicture.РМК_Цифра4" id="1af9af8c-2f13-4eca-ba1f-d90d55ef1374" configVersion="82cf9f5341286d7b01db1085c1cc2d9dbb79a429"/>
+		<Metadata name="CommonPicture.РМК_Цифра5" id="6833f2a5-7814-4be7-bb2a-66d69bf51c77" configVersion="c6f5f9077b5bfd34c48bcb90765846eaba27b60e"/>
+		<Metadata name="CommonPicture.РМК_Цифра6" id="3b51e169-e83f-4874-84bd-50915f0110db" configVersion="f111999f21d25ce74d1648572c3cbf412a6800c7"/>
+		<Metadata name="CommonPicture.РМК_Цифра7" id="83cdb09e-00d0-4f3d-8a0f-44bc26abccea" configVersion="8eb0b53bd46344a40f1c5e1d75120c6e3ae8ee5f"/>
+		<Metadata name="CommonPicture.РМК_Цифра8" id="2f0198e3-9a99-44ce-b7c2-e5f26c74f12a" configVersion="871580551707c2b752c0818b134dee26c6e3e0a4"/>
+		<Metadata name="CommonPicture.РМК_Цифра9" id="945378e1-d853-49fc-9aea-2da6b68e5017" configVersion="410d3ab0940d871952c4af709327f70b2c8ea1c5"/>
+		<Metadata name="CommonPicture.СерииНоменклатурыКолонкаСтатусов" id="0a2e0b64-7bda-45f2-ae38-f5d164cd8c6d" configVersion="2b7026b08c2ec217b5b1fe2dd69d3d90d022254c"/>
+		<Metadata name="CommonPicture.СтатусыУказанияСерий" id="e4c7580f-3d92-4597-a8d7-bf635645a9d1" configVersion="a0eddf6c6ea945ec095550c724988b4e550ef66d"/>
+		<Metadata name="Configuration.ЗвуковоеСопровождениеОпераций" id="90f39fcd-c78c-4e1c-8f17-11025b0bebf4" configVersion="45ff820bbf6d9882593e197532b895da9339d757"/>
+		<Metadata name="Constant.СДЧ_ВоспроизводитьВПроизвольномПорядке" id="06cf69a9-06b6-499c-85cf-2c1ddc071dad" configVersion="e2b610cef3c63d2a55d3e37fac902e5985c9a660"/>
+		<Metadata name="Constant.СДЧ_ВоспроизводитьЗвукОС" id="c39aa888-f4d5-40c6-90f0-4adef33bd113" configVersion="2483e8ef8a9d40272a711d369615c82b4afddb8b"/>
+		<Metadata name="Document.ЧекККМ" id="5128bf64-9740-4bb6-985b-3448b420c7b1" configVersion="70a5d0d80aa5c5b9282c3ad9215a73eabf6e8b61"/>
+		<Metadata name="Document.ЧекККМ.Form.ФормаОплатыНаличными" id="ec995205-56da-4fe5-8401-a35cfba6a277" configVersion="c1a3fa95f9e19eefdc1c22936b8f54aa647eb7b1"/>
+		<Metadata name="Document.ЧекККМ.Form.ФормаОплатыНаличными.Form" id="ec995205-56da-4fe5-8401-a35cfba6a277.0" configVersion="ee981f9c25042baefccc95175b908ec794df87ea"/>
+		<Metadata name="Document.ЧекККМ.Form.ФормаОплатыЭСФСС" id="1f8ef5a1-0d02-4764-8d25-b17905f73a3a" configVersion="6bb435e7256fb2c5f6939d58ee9932eaaa8d59dd"/>
+		<Metadata name="Document.ЧекККМ.Form.ФормаОплатыЭСФСС.Form" id="1f8ef5a1-0d02-4764-8d25-b17905f73a3a.0" configVersion="ba47d0724438db8fb6ed0aa721a9e61d664d6c5f"/>
+		<Metadata name="Document.ЧекККМ.Form.ФормаСмешаннойОплаты" id="c5c7eb9f-8681-41bb-b73d-9ff790d503ab" configVersion="c20a32d39b944615965972b5c4ce9cc47973af48"/>
+		<Metadata name="Document.ЧекККМ.Form.ФормаСмешаннойОплаты.Form" id="c5c7eb9f-8681-41bb-b73d-9ff790d503ab.0" configVersion="4d3b5fc1972ca15c665196e0d0451c93624be0ef"/>
+		<Metadata name="Language.Русский" id="ffd85488-3a5a-4b3a-b686-72cc3bfeaf87" configVersion="360f27799f9de83e85154fa0cec1529c5d84f4c3"/>
+		<Metadata name="Role.АдминистраторЗвуковоеСопровождение" id="7bde41d1-cb6f-4d37-9750-a7ee97aa0b5e" configVersion="2994801d49dd7ffcdf7d04a78b54f5fd38192ae7"/>
+		<Metadata name="StyleItem.ИндивидуальнаяЦена" id="5e491df8-93e5-4379-8b23-de44d7464a1d" configVersion="75528f190d8fd4b9485daddd2af655978b3f0841"/>
+		<Metadata name="StyleItem.ЦветГрадацияСПАРКВысокийРиск" id="daf47d98-7f01-49ef-be92-9a8698921ca1" configVersion="bae27101d88a0d29c7cb1f4d845b453861527d2c"/>
+		<Metadata name="StyleItem.ЦветГрадацияСПАРКСреднийРиск" id="a01b83e8-138f-4ec1-ad58-f891039d0c29" configVersion="1b6c9ebf9f1356a227776dd13bf63ee11aac69eb"/>
+		<Metadata name="Subsystem.Администрирование" id="7f3f69a4-7c40-411e-a0d0-51caea71b313" configVersion="279873164e07dc0ca87fb7b453a897346ae6b7d4"/>
+		<Metadata name="Subsystem.Администрирование.Subsystem.ЗвуковоеСопровождениеОпераций" id="7fc291a5-5c51-4dc4-b7a0-c014b9bc09df" configVersion="e58e635931e6b388a562a93ed9a4336f4b145877"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
