@@ -19,4 +19,6 @@
 <br>
 <br>
 Посмотрите мое резюме: https://github.com/rf-bessome/resume/blob/main/Разработчик%20-%20Лупонос%20Дмитрий%20Валерьевич.pdf
-
+<p align="center">
+  <img src="https://dev1c.tech/wp-content/uploads/2025/12/image-5.png"  alt="QR-код для донатов" />
+</p>
